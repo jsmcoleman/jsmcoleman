@@ -13,6 +13,6 @@
 
 Connect with me!
  
-- [Linkedin](www.linkedin.com/in/jada-coleman)
+- [Linkedin]([www.linkedin.com/in/jada-coleman](https://www.linkedin.com/in/jada-coleman/))
 
 
