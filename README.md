@@ -5,7 +5,7 @@
 - <b>Os Proficiency</b>
   - [osTicket: Prerequisites, Setup and Ticket Lifecycle](https://github.com/jsmcoleman/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jsmcoleman/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b> Remote Desktop and VPNs </b>
   - [VPN Setup and Usage](https://github.com/jsmcoleman/osticket-prereqs)
