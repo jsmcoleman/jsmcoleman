@@ -9,7 +9,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b> Remote Desktop and VPNs </b>
   - [VPN Setup and Usage](https://github.com/jsmcoleman/osticket-prereqs)
-  - [Network FIle Shares and Permissions](https://github.com/jsmcoleman/osticket-prereqs)
+  - [Network File Shares and Permissions](https://github.com/jsmcoleman/osticket-prereqs)
 
 Connect with me!
  
