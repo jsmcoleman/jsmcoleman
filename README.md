@@ -4,7 +4,7 @@
 
 - <b>Os Proficiency</b>
   - [osTicket: Prerequisites, Setup and Ticket Lifecycle](https://github.com/jsmcoleman/osticket-prereqs)
-  - [osTicket: Setup](https://github.com/jsmcoleman/osticket-)
+  - [osTicket: Setup](https://github.com/jsmcoleman/osticket-setup)
   - [osTicket: Ticket Lifecycle](https://github.com/jsmcoleman/osticket-)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jsmcoleman/configure-ad)
