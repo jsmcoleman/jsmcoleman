@@ -5,7 +5,7 @@
 - <b>Os Proficiency</b>
   - [osTicket: Prerequisites](https://github.com/jsmcoleman/osticket-prereqs)
   - [osTicket: Setup](https://github.com/jsmcoleman/osticket-setup)
-  - [osTicket: Ticket Lifecycle](https://github.com/jsmcoleman/osticket-)
+  - [osTicket: Ticket Lifecycle](https://github.com/jsmcoleman/osticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jsmcoleman/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
