@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Os Proficiency</b>
-  - [osTicket: Prerequisites, Setup and Ticket Lifecycle](https://github.com/jsmcoleman/osticket-prereqs)
+  - [osTicket: Prerequisites](https://github.com/jsmcoleman/osticket-prereqs)
   - [osTicket: Setup](https://github.com/jsmcoleman/osticket-setup)
   - [osTicket: Ticket Lifecycle](https://github.com/jsmcoleman/osticket-)
 - <b>Microsoft Azure</b>
