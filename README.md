@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Operating Systems Proficiency</b>
+- <b>Ticketing Proficiency</b>
   - [osTicket: Prerequisites](https://github.com/jsmcoleman/osticket-prereqs)
   - [osTicket: Setup](https://github.com/jsmcoleman/osticket-setup)
   - [osTicket: Ticket Lifecycle](https://github.com/jsmcoleman/osticket-lifecycle)
